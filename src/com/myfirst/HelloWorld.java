@@ -18,7 +18,7 @@ public class HelloWorld {
     }
       
 	public void getName(){
-	   System.out.println("And My Name is : " + name);
+	   System.out.println("And My Name is commit : " + name);
 	}
     
 }
